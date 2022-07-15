@@ -1,2 +1,2 @@
-# simple_nft_stacking_contract
+# simple_nft_staking_contract
 A simple NFT staking smart contract.
